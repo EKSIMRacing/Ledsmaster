@@ -5,7 +5,7 @@ Applications and plugins (c)2011-2024 by Zappadoc – All Rights Reserved.
 Ledsmaster (replaces Ledsmaster). A powerful tool to control LEDs, display panels and inputs for your gaming hardware, including steering wheels, USB device displays and virtual racing dash emulator on Android and Windows tablets. 
 
 The current devices and virtual racing dash supported (2024-03) are:
-. All VoCore USB screens including 4, 4.3, 5, 6.8 inch
+.All VoCore USB screens including 4", 4.3", 5", 6.8"
 
 .SIM RACE LCD, SIM RACE GT, SIM RACE F1, SIM RACE Deluxe or SIM RACE PRO USB Shift lights Display devices from SIM Display,
 
